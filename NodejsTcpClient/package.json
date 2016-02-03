@@ -1,0 +1,14 @@
+{
+  "name": "NodejsTcpClient",
+  "version": "0.0.0",
+  "description": "NodejsTcpClient",
+  "main": "app.js",
+  "author": {
+    "name": "HuckeJ",
+    "email": ""
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "readline-sync": "^1.3.0"
+  }
+}
