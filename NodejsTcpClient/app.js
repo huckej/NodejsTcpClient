@@ -54,7 +54,7 @@ function SendData(data) {
         }, 0);
         return;
     }
-
+    //XXXXXXXXXXXXXXXX
     client.write(data);
     
 }
